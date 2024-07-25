@@ -1,0 +1,6 @@
+[submodule "Backend"]
+	path = Backend
+	url = https://github.com/LeeHyo-Jeong/MadCamp_Project04_Back.git
+[submodule "Frontend"]
+	path = Frontend
+	url = https://github.com/LeeHyo-Jeong/MadCamp_Project04_Front.git
